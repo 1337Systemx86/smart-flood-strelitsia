@@ -41,4 +41,8 @@ python3 -m pip install requests
 python3 auto-proxy.py
 
 
+# IMPORTANT MESSAGE READ PLEAS
+
+auto-proxy use proxy scrape for update proxy, but remenber proxy-scrape allow 100 request on api every 24h so dont abuse request on api of proxy-scrape
+
 #################################################
