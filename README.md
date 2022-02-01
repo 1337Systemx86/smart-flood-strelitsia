@@ -21,7 +21,9 @@ This script is based on http-smart-flood coded by forky i have update request se
 install python3
 
 apt install python3
+
 or
+
 yum install python3
 
 python3 -m pip install requests
