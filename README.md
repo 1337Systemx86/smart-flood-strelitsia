@@ -26,11 +26,15 @@ This script is based on http-smart-flood coded by forky i have update request se
 
 install python3
 
-apt install python3
+sudo apt install python3
 
 or
 
-yum install python3
+sudo yum install python3
+
+sudo apt install screen
+
+sudo yum install screen
 
 python3 -m pip install requests
 
@@ -65,11 +69,17 @@ python3 auto-proxy.py
 
 install python3
 
-apt install python3
+sudo apt install python3
 
 or
 
-yum install python3
+sudo yum install python3
+
+sudo apt install python3-pip
+
+sudo apt install screen
+
+sudo yum install screen
 
 python3 -m pip install requests
 
