@@ -30,3 +30,41 @@ python3 -m pip install requests
 
 python3 auto-proxy.py
 
+
+#####################################################################################################################################################################
+
+
+
+
+# SETUP FRENCH 
+
+
+
+# Install and launch the script
+
+ Dont be idiot and make all commande to make work all thanks :)
+ 
+ First chmod all files 
+ 
+ 1: chmod 777 *
+ 
+ 2: launche script exemple
+ 
+ 3:  ./Strelitsia
+ 
+ For update proxy setup auto-proxy.py
+
+# Tutoriel for setup auto-proxy
+
+
+install python3
+
+apt install python3
+
+or
+
+yum install python3
+
+python3 -m pip install requests
+
+python3 auto-proxy.py
